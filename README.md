@@ -1,65 +1,55 @@
 # Sorata Kuze
 
-Data Scientist / AI Engineer / Applied ML-focused builder based in Melbourne, Australia.
+Data Analyst / Applied Data Scientist based in Melbourne, Australia.
 
-I build practical Python systems around LLM workflows, decision-support logic, and automation. My recent projects focus on turning messy real-world inputs into structured, testable outputs rather than shipping demo-only notebooks.
+I work on analytics-driven business problems and build practical Python tools that turn analysis into usable workflows.
+My main interest is decision support, business improvement, and applied AI that helps people make better decisions in real work.
 
-Currently open to Data Scientist, AI Engineer, and Applied ML opportunities in Melbourne.
-Working Holiday visa.
+## What I Do
+
+- analytics and hypothesis-driven problem solving
+- decision-support tools and workflow design
+- Python systems that operationalize business logic
+- practical LLM use for structured outputs and internal workflows
 
 ## Selected Projects
 
-### [personal-os-public](https://github.com/kuze-sorata/personal-os-public)
-
-Public-safe FastAPI demo of a personal productivity backend.
-It prioritizes daily tasks using mock data while preserving the structure of a private production-oriented system built around Notion, Google Calendar, and Telegram workflows.
-
-Highlights:
-
-- decision-support backend with explicit prioritization logic
-- mock-safe public architecture aligned with a private production version
-- tested FastAPI service with daily job flows and reproducible local setup
-
 ### [slide_app](https://github.com/kuze-sorata/slide_app)
 
-FastAPI-based slide drafting system that generates structured presentation JSON from natural-language requests and exports to HTML, Marp, PDF, and PPTX.
+FastAPI app that generates structured slide drafts from natural-language requests and supports editable preview plus export.
 
-Highlights:
+- shows applied LLM workflow design with structured JSON as the contract
+- demonstrates validation, rendering, and export in one usable flow
+- supports English and Japanese demo use cases
 
-- applied LLM workflow with structured output as the system contract
-- provider abstraction across hosted and local model backends
-- validation, rendering, and export pipeline with tests
+### [personal-os-public](https://github.com/kuze-sorata/personal-os-public)
+
+Public-safe productivity backend demo that prioritizes tasks, estimates time, and generates daily summaries from mock data.
+
+- shows decision-support logic implemented as a working backend
+- demonstrates automation-oriented workflow design
+- uses a public-safe setup while preserving real-world structure
 
 ### [lead_expansion](https://github.com/kuze-sorata/lead_expansion)
 
-Hypothesis-driven B2B lead prioritization project built with simulated data, reusable Python pipeline code, and portfolio-ready outputs.
+Public portfolio project for hypothesis-driven target account prioritization using simulated company data.
 
-Highlights:
+- shows how business assumptions can be translated into a reproducible scoring workflow
+- focuses on prioritization logic and decision-support framing
+- uses simulated data because real client data cannot be shared publicly
 
-- explainable scoring workflow for target account prioritization
-- simulation-based analysis when real CRM data cannot be shared
-- reproducible pipeline plus figures and ranked outputs
+## What I Am Looking For
 
-## What I Like Working On
-
-- applied ML and LLM systems
-- data products that support decisions, not just dashboards
-- Python backends and API-driven automation
-- reproducible analysis and testable business logic
+- Data Analyst roles
+- Data Scientist roles
+- applied data / decision-support work
+- analytics-heavy roles involving Python, automation, or applied AI
 
 ## Stack
 
-- Python
-- FastAPI
-- pandas
-- pytest
-- Notion API
-- Google Calendar API
-- Telegram Bot API
-- LLM integration patterns
+Python, SQL, pandas, FastAPI, pytest, workflow automation, LLM application patterns
 
-## Contact
+## Note
 
-- GitHub: [@kuze-sorata](https://github.com/kuze-sorata)
-
-If you are hiring for Data Scientist, AI Engineer, or Applied ML roles in Melbourne, feel free to reach out.
+Some of my strongest analytics work has been done in client or internal settings and cannot be shared publicly.
+This GitHub focuses on public-safe projects that show how I think about analysis, prioritization, workflow design, and implementation.
